@@ -1,0 +1,44 @@
+html {
+	font-size: 16px;
+}
+
+.modified {
+	/* font-size:px, em, rem
+	/* color: rgb(), blac, # */
+	/* text-align: ; */
+	/* font-family: "Orbitron", sans-serif; *
+	font-weight: bolder;
+	font-style: oblique;
+	/* font-stretch: 100%; *
+	/* text-transform: ; *
+	/* text-decoration: none; *
+	text-shadow: 2px 2px 3px green;
+	line-height: 0.8;
+	word-spacing: 0px;
+	letter-spacing: -0.9px; */
+	white-space: pre;
+}
+p {
+	font-size: 1rem;
+}
+h1 {
+	font-size: 1.6rem;
+}
+.table-cell {
+	writing-mode: vertical-lr;
+	text-orientation: upright;
+	border: 1px solid red;
+	width: 50px;
+	height: 120px;
+}
+button {
+	width: 100px;
+	/* height: 25px; */
+	white-space: pre-wrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+button:hover {
+	background: black;
+	color: white;
+}
