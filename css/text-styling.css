@@ -42,3 +42,14 @@ button:hover {
 	background: black;
 	color: white;
 }
+.section-with-bg {
+	color: azure;
+	width: 100%;
+	border: 1px solid red;
+	height: 400px;
+	background: url(https://www.denofgeek.com/wp-content/uploads/2013/01/o-death-star-petition-facebook.jpg?fit=1536%2C1042);
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
